@@ -2,11 +2,12 @@
 Text-based game where the user must to travel to as many countries as possible with the time and money allowed
 
 program was originally designed for a school project and expanded to include more
+
 Skills practiced:
-Parent and Child Classes with the parent space and child continents
-Linked Lists/Spaces - Every continent points to the continent or nullptr(ocean) north, south, east, and west of it
-Stacks - the backpack is a stack where the last thing thrown in the backpack is the first to be pulled out
-Array of Passport Stamps - Bool array where when a continent is visited bool becomes true at its corresponding array space
+Parent and Child Classes with the parent space and child continents; 
+Linked Lists/Spaces - Every continent points to the continent or nullptr(ocean) north, south, east, and west of it; 
+Stacks - the backpack is a stack where the last thing thrown in the backpack is the first to be pulled out; 
+Array of Passport Stamps - Bool array where when a continent is visited bool becomes true at its corresponding array space; 
 
 
 Game Setup:
