@@ -1,5 +1,5 @@
 # Travel-and-Trade-Game
-Text-based game where the user must to travel to as many countries as possible with the time and money allowed
+Text-based game where the user must travel to as many countries as possible with the time and money allowed
 
 program was originally designed for a school project and expanded to include more
 
@@ -11,7 +11,7 @@ Array of Passport Stamps - Bool array where when a continent is visited bool bec
 
 
 Game Setup:
-Well hello, excited traveller.  I hear you want to travel the world?
+Well hello, excited traveler.  I hear you want to travel the world?
 Well, it is your lucky day.  I am about to give you the trip of a lifetime...
 but everything comes with a catch!
 
